@@ -10,10 +10,10 @@
   "author": "theshark",
   "license": "MIT",
   "dependencies": {
-    "koa": "^2.5.0"
+    "koa": "^2.5.0",
+     "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
   },
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-preset-env": "^1.6.1"
   }
 }
